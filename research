@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+ 
+ <!-- Head options -->
+<head>
+    <meta charset = "utf-8">
+    <title>Saverio Spinella</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+ <!-- Body -->
+<body>
+  
+ <!-- Header -->
+<header>
+    <!-- Define navigator -->
+ <h2> Saverio Spinella </h2>
+   <nav>
+        <ul>
+            <div class="spacer2"> </div>
+            <li><a href="index.html"><font size=5>Home</a></li>
+            <div class="spacer2"> </div>
+            <li><a href="research.html"><font size=5>Research</a></li>
+            <div class="spacer2"> </div>
+            <li><a href="contact.html"><font size=5>Contact</a></li>
+        </ul>
+    </nav>
+ </header>
+  
+   <!-- Main -->
+  <main> 
+    <div class="spacer></div>
+    <div class="spacer2></div>
+    <h2> Working Papers </h2>           
+    <div class="bigspacer></div>
+    <div class="spacer2></div>
+    <h2> Robot Adoption, Worker - Firm Sorting and Wage Inequality: Evidence from Administrative Panel Data</h2>
+    <h3> (with Ester Faia and Gianmarco Ottaviano </h3>
+    <p> <font size=4> Leveraging the geographic dimension of a large administrative panel on employeremployee contracts, we study the impact of robot adoption on wage inequality through
+changes in worker-firm assortativity. Using recently developed methods to correctly
+and robustly estimate worker and firm unobserved characteristics, we find that robot
+adoption increases wage inequality by fostering both horizontal and vertical task
+specialization across firms. In local economies where robot penetration has been more
+pronounced, workers performing similar tasks have disproportionately clustered in the
+same firms (‘segregation’). Moreover, such clustering has been characterized by the
+concentration of higher earners performing more complex tasks in firms paying higher
+wages (‘sorting’). These firms are more productive and poach more aggressively. We rationalize these findings through a simple extension of a well-established class of models
+with two-sided heterogeneity, on-the-job search, rent sharing and employee poaching.
+We conclude that our empirical findings reveal the presence of both ‘routine-biased
+technological change’ (RBTC), whereby new technology decreases the relative demand
+for workers in traditional routine tasks, and ‘core-biased technological change’ (CBTC),
+whereby new technology requires workers with specialized knowledge independently of
+their tasks being more or less routine intensive. </p>
+  </main>
+  
+</body>
+  
+  </html>
