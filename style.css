@@ -16,7 +16,7 @@ header {
 
 header * {
     display: inline;
-    height: 50px;
+    height: 100px;
 }
 
 header ul {
