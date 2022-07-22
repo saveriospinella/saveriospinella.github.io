@@ -20,6 +20,12 @@ header * {
     line-height: 50px;
 }
 
+div.bigspacer
+{
+font-size: 0; 
+height: 50px;
+line-height: 0;    
+}
 div.spacer
 {
     font-size: 0; 
