@@ -10,13 +10,14 @@ header {
     left: 0;
     right: 0;
     height: 100px;
-    line-height: 0;
+    line-height: 50px;
     background-color: #eee;
 }
 
 header * {
     display: inline;
     height: 0;
+    line-height: 50px;
 }
 
 header ul {
