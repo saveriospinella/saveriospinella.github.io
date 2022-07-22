@@ -49,6 +49,15 @@ div.column
   width: 0.25;
 }
 
+
+div.bigcolumn
+{
+  float: left;
+  padding: 10px;
+  width: 0.50;
+}
+
+
 header ul {
     padding: 0;
 }
