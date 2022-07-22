@@ -20,6 +20,18 @@ header * {
     line-height: 50px;
 }
 
+div.spacer
+{
+    font-size: 0; 
+    height: 10px;
+    line-height: 0;
+}
+
+div.spacer2
+{
+ font-size:0;
+ left:25px;
+}
 header ul {
     padding: 0;
 }
