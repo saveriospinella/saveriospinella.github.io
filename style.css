@@ -66,6 +66,11 @@ header li {
     margin-left: 30px;
 }
 
+li a.active {
+  background-color: #151B54
+  color: white;
+ }
+
 section {
     height: 100vh;
     border: 1px solid black;
