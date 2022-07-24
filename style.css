@@ -59,17 +59,17 @@ div.bigcolumn
 
 header nav {
    line-height: 50px; 
-   padding: 50px 50px;
+   padding: 40px 50px;
 }
 header ul {
     line-height: 50px;
-    padding: 50px 50px;
+    padding: 40px 50px;
 }
 
 header li {
     margin-left: 50px;
     line-height: 50px;
-    padding: 50px 50px;
+    padding: 40px 50px;
 }
 
 header li a.active {
