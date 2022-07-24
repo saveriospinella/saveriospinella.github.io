@@ -57,13 +57,16 @@ div.bigcolumn
   width: 75%;
 }
 
-
+header nav {
+   line-height: 50px; 
+}
 header ul {
     line-height: 50px;
 }
 
 header li {
     margin-left: 30px;
+    line-height: 50px;
 }
 
 li a.active {
