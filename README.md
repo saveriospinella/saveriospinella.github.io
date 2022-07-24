@@ -1,2 +1,2 @@
-# s-spinella.github.io
-Personal website
+# saveriospinella.github.io
+Personal website with CV and research output.
