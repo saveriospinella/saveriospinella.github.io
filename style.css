@@ -59,21 +59,22 @@ div.bigcolumn
 
 header nav {
    line-height: 50px; 
-   padding: 25px
+   padding: 25px;
 }
 header ul {
     line-height: 50px;
-    padding: 25px
+    padding: 25px;
 }
 
 header li {
-    margin-left: 30px;
+    margin-left: 50px;
     line-height: 50px;
-    padding: 25px
+    padding: 25px;
 }
 
 li a.active {
-  background-color: #151B54
+  background-color: #151B54;
+  border: 1px solid black;
   color: white;
  }
 
