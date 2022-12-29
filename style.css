@@ -54,6 +54,14 @@ font-size: 0;
 height: 50px;
 line-height: 0;    
 }
+
+div.horizontalgap {
+  float: left;
+  overflow: hidden;
+  height: 1px;
+  width: 0px;
+}
+
 div.spacer
 {
     font-size: 0; 
