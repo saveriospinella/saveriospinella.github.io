@@ -91,10 +91,12 @@ div.bigcolumn
   width: 75%;
 }
 
-header li a.active {
+header nav ul li a.active {
   background-color: #151B54;
   border: 1px solid black;
   color: white;
  }
 
-
+header nav ul li:hover {
+    opacity: 0.7;
+}
