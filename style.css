@@ -56,9 +56,8 @@ header li {
         }
  
         /*code to change background color*/
-        .navbar-nav>.active>a {
+        .nav-item active>a {
             background-color: #C0C0C0;
-            color: green;
         }
 
 div.bigspacer
