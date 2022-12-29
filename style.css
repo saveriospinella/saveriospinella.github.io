@@ -47,17 +47,14 @@ header li {
 }
 
 /*--------------Made up-----------------*/
- .nav-link {
-            color: green;
-        }
- 
+
         .nav-item>a:hover {
             color: green;
         }
  
         /*code to change background color*/
         .nav-item active>a {
-            background-color: #C0C0C0;
+            color: white;
         }
 
 div.bigspacer
