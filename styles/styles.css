@@ -1,4 +1,3 @@
-/*@import url('http://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');*/
 
 body {
   padding:17.5px;
@@ -10,6 +9,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0cm 0cm 12px;
+}
+
+.panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
 }
 
 p, ul, ol, table, pre, dl {
